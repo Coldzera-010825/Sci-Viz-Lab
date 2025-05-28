@@ -67,4 +67,30 @@ jupyter lab python/basic/bar_chart.ipynb
 #For R users:
 install.packages(c("tidyverse", "ggplot2", "ComplexHeatmap", "umap", "cluster"))
 # then open R/basic/heatmap.Rmd in RStudio and knit
+```
+---
+## 📌 Roadmap
 
+We are continuously expanding the library with both chart types and full-styled templates.
+
+| Version | Planned additions |
+|---------|-------------------|
+| **v0.2** | Waterfall charts · Sankey diagrams · Radar plots |
+| **v0.3** | Survival analysis visuals · Kaplan–Meier curves · Cox regression |
+| **v1.0** | CLI-based figure styling tool (`viz-styler`) · Full documentation site with live previews |
+
+If you have ideas or needs, feel free to open an issue or submit a feature request 🚀
+
+---
+
+## 🤝 Contributing
+
+We welcome contributions in both **Python** and **R** – whether it's a new plot type, style preset, or dataset.
+
+---
+## 📜 License
+
+This repository is licensed under the MIT License.
+You are free to use, modify, and share the contents for academic, personal, or commercial purposes.
+
+Please cite or ⭐ this repo if it helps your work — it really makes our day!
